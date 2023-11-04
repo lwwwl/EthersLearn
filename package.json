@@ -1,0 +1,20 @@
+{
+  "name": "etherslearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "dependencies": {
+    "aes-js": "^4.0.0-beta.5",
+    "ethers": "^6.8.1",
+    "tslib": "^2.4.0",
+    "ws": "^8.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node src/script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
